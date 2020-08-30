@@ -7,7 +7,7 @@ Script tested on version 2.0.x and 2.1.x
 ```bash
 $ mkdir -p /usr/share/remarkable/scripts
 $ mkdir -p /home/root/customization/images/poweroff
-$ mkdir -p /home/root/customization/images/poweroff
+$ mkdir -p /home/root/customization/images/suspended
 ```
 3. Copy the script under right position
 ```bash
